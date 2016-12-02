@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Traceroute</string>
+    <string name="activity_main_traceroute">开始Traceroute</string>
+    <string name="url_default">www.taobao.com</string>
+</resources>
